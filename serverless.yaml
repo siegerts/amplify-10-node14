@@ -1,6 +1,7 @@
 myApp:
   inputs:
     cloudfront:
+      distributionId: E21XN70FROBGOT
       tags:
         tag1: ssr
         tag2: amplify
