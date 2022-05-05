@@ -1,2 +1,6 @@
-myNextApplication:
-  component: "@sls-next/serverless-component@3.7.0-alpha.5"
+myApp:
+  inputs:
+    cloudfront:
+      tags:
+        tag1: ssr
+        tag2: amplify
